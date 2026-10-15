@@ -1,10 +1,10 @@
 ### Привет! Я изучаю программирование 🚀
 
-<!-- Статистика вашего аккаунта (коммиты, PR, звезды) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1eetwa4&show_icons=true&theme=radical)
+<!-- Статистика аккаунта (Черно-зеленая тема Matrix) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=f1eetwa4&show_icons=true&theme=matrix)
 
-<!-- Самые используемые языки программирования во всех репозиториях -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f1eetwa4&layout=compact&theme=radical)
+<!-- Самые используемые языки программирования -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f1eetwa4&layout=compact&theme=matrix)
 
 <!-- График активности (Streak) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=f1eetwa4&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=f1eetwa4&theme=matrix)
